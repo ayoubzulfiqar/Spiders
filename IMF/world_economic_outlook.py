@@ -26,15 +26,10 @@ def download():
             filename = os.path.join(downloadDir, f"WEOOct{year}all.xls")
 
             # Save the file in binary mode
-            with open(filename, "wb") as file:
+            with open(filename, "utf-16") as file:
                 for chunk in response.iter_content(chunk_size=8192):
                     file.write(chunk)
             print(f"Saved: {filename}")
 
         except requests.exceptions.RequestException as e:
             print(f"Failed to download {url}: {e}")
-
-
-# TODO:
-# - Data Processing & Processing
-# - Converting to JSON or CSV
