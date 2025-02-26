@@ -33,3 +33,6 @@ def download():
 
         except requests.exceptions.RequestException as e:
             print(f"Failed to download {url}: {e}")
+
+
+# TODO: The Data is OLD xls File And All Plugins in os xls in Python stopped Supporting it so It needs a turn around,
