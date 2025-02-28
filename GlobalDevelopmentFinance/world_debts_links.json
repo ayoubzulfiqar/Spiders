@@ -1,0 +1,74 @@
+{
+    "2024": {
+        "February": "https://thedocs.worldbank.org/en/doc/6e72b0ded996306fa01f5db7a0c38b19-0050052021/related/Feb2024update.xlsx"
+    },
+    "2023": {
+        "December": "https://thedocs.worldbank.org/en/doc/6e72b0ded996306fa01f5db7a0c38b19-0050052021/related/IDS-ALLCountries.xlsx"
+    },
+    "2022": {
+        "December": "https://thedocs.worldbank.org/en/doc/6e72b0ded996306fa01f5db7a0c38b19-0050052021/related/IDS-Excel-2022-12.zip"
+    },
+    "2021": {
+        "January": "https://databank.worldbank.org/data/download/archive/IDS_excel_2021_01.zip",
+        "October": "https://thedocs.worldbank.org/en/doc/6e72b0ded996306fa01f5db7a0c38b19-0050052021/related/IDS-Excel-2021-10.zip"
+    },
+    "2019": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2019_12.zip"
+    },
+    "2018": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2018_10.zip"
+    },
+    "2017": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2017_10.zip"
+    },
+    "2016": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2016_12.zip"
+    },
+    "2015": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2015_12.zip"
+    },
+    "2014": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2014_12.zip"
+    },
+    "2013": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2013_12.zip"
+    },
+    "2012": {
+        "December": "https://databank.worldbank.org/data/download/archive/IDS_excel_2012_12.zip",
+        "October": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2012_10.zip",
+        "September": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2012_09.zip",
+        "July": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2012_07.zip",
+        "May": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2012_05.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2012_04.zip"
+    },
+    "2011": {
+        "December": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2011_12.zip",
+        "September": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2011_09.zip",
+        "July": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2011_07.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2011_04.zip"
+    },
+    "2010": {
+        "December": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2010_12.zip",
+        "July": "https://databank.worldbank.org/data/download/archive/WDIandGDF_excel_2010_07.zip",
+        "February": "https://databank.worldbank.org/data/download/archive/GDF_2010_02.zip"
+    },
+    "2009": {
+        "May": "https://databank.worldbank.org/data/download/archive/GDF_2009_05.zip"
+    },
+    "2008": {
+        "December": "https://databank.worldbank.org/data/download/archive/GDF_2008_12.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/GDF_2008_04.zip"
+    },
+    "2007": {
+        "November": "https://databank.worldbank.org/data/download/archive/GDF_2007_11.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/GDF_2007_04.zip"
+    },
+    "2006": {
+        "December": "https://databank.worldbank.org/data/download/archive/GDF_2006_12.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/GDF_2006_04.zip"
+    },
+    "2005": {
+        "November": "https://databank.worldbank.org/data/download/archive/GDF_2005_11.zip",
+        "April": "https://databank.worldbank.org/data/download/archive/GDF_2005_04.zip"
+    }
+}
